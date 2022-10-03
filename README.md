@@ -1,4 +1,8 @@
 # Projekt-Bazy-danych
+<h1>Pierwsza część projektu na:</h1>
+<h2>17.09</h2>
+Program bazodanowy: Microsoft SQL server
+Temat: Baza danych dla galeri sztuki
 <ol>
   <li>Do wskazanego z listy problemu bazodanowego zaprojektuj diagram ER w       notacji:
     <ol>

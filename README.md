@@ -1,7 +1,6 @@
 # Projekt-Bazy-danych
-<h1>Pierwsza część projektu na:</h1>
-<h2>17.09</h2>
-Program bazodanowy: Microsoft SQL server
+<h2>Pierwsza część projektu na: 17.09</h2>
+Program bazodanowy: Microsoft SQL server< /br>
 Temat: Baza danych dla galeri sztuki
 <ol>
   <li>Do wskazanego z listy problemu bazodanowego zaprojektuj diagram ER w       notacji:
@@ -10,7 +9,7 @@ Temat: Baza danych dla galeri sztuki
       <li>Barkera</li>
       <li>UML</li>
   </ol>
-  <br>Diagram obowiązkowo powinien zawierać następujące elementy:
+  Diagram obowiązkowo powinien zawierać następujące elementy:
   <ol>
     <li>atrybut wielowartościowy</li>
     <li>hierarchię encji</li>

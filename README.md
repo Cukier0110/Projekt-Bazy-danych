@@ -1,9 +1,9 @@
 # Projekt-Bazy-danych
 <h2>Pierwsza część projektu na: 17.09</h2>
-Program bazodanowy: Microsoft SQL server< /br>
-Temat: Baza danych dla galeri sztuki
+<h2>Program bazodanowy: Microsoft SQL server</h2>
+<h2>Temat: Baza danych dla galeri sztuki</h2>
 <ol>
-  <li>Do wskazanego z listy problemu bazodanowego zaprojektuj diagram ER w       notacji:
+  <li>Do wskazanego z listy problemu bazodanowego zaprojektuj diagram ER w notacji:
     <ol>
       <li>Chen-a</li>
       <li>Barkera</li>

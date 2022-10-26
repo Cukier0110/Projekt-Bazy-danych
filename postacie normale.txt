@@ -1,0 +1,9 @@
+I postać normalna 
+	wszystkie kolumny są atomowe (jedna wartość w jednej kolumnie)
+	tabela posiada klucz głównu
+
+II postać normalna
+	tabela musi być w pierwszej postaci normalnej
+	wszystkie kolumny nie kluczowe zależą od klucz głównego
+
+III postać normala
